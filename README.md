@@ -1,0 +1,1 @@
+Design a game of rock paper scissors that runs only in the console.
